@@ -1,14 +1,14 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ...
-  Flutter Chess Application [Chess-League] Using dart and Flutter.
-  link to project: (https://github.com/MahmoudTarraf/Chess-League/tree/master)
-- 🌱 I’m currently learning ...
-  Python and Django : a complete backend development course while creating a fullstack app using django and flutter
-- 💬 Ask me about ...
-  I'm ready to offer any help with building your dream mobile application!
-- 📫 How to reach me: ...
-  Email : (mahmoudtarraf77@gmail.com)
-  Facebook : (https://www.facebook.com/share/153i3Qbi8i/)
+  Flutter Chess Application [Chess-League] Using dart and Flutter.<br/>
+  link to project: (https://github.com/MahmoudTarraf/Chess-League/tree/master)<br/>
+- 🌱 I’m currently learning ...<br/>
+  Python and Django : a complete backend development course while creating a fullstack app using django and flutter<br/>
+- 💬 Ask me about ...<br/>
+  I'm ready to offer any help with building your dream mobile application!<br/>
+- 📫 How to reach me: ...<br/>
+  Email : (mahmoudtarraf77@gmail.com)<br/>
+  Facebook : (https://www.facebook.com/share/153i3Qbi8i/)<br/>
 <!--
 **MahmoudTarraf/mahmoudtarraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
