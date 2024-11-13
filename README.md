@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br/>
-My name is Mahmoud, and I'm an IT graduate specialized in building Mobile Applications using Flutter, Dart, and Django backend Framework .<br/>
+My name is Mahmoud, I'm an IT graduate specialized in building Mobile Applications using Flutter, Dart, and Django backend Framework .<br/>
 
 - 🔭 I’m currently working on ...
   Flutter Chess Application [Chess-League] Using dart and Flutter.<br/>
