@@ -11,7 +11,7 @@ With expertise in **Flutter, Dart, Django, and Node.js**, I enjoy transforming i
 - 🧩 [**Chess-League**](https://github.com/MahmoudTarraf/Chess-League/tree/master)  
   A Flutter-based chess app with intelligent move validation, castling, and multiplayer support.  
 
-- ✅ **Tasker App** *(Private Repo)*  
+- ✅ **Tasker App** 
   A **task management app** built with Flutter, where users can:  
   - Add, update, and delete tasks  
   - Schedule tasks with deadlines & notifications  
@@ -45,10 +45,11 @@ With expertise in **Flutter, Dart, Django, and Node.js**, I enjoy transforming i
 ## 📫 Connect With Me  
 - 📧 [Email](mailto:mahmoudtarraf77@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-tarraf/)  
-- 🐙 [GitHub](https://github.com/MahmoudTarraf)  
+- 🐙 [GitHub](https://github.com/MahmoudTarraf)
+- 💎 [Instagram](https://www.instagram.com/tarrafmahmud?igsh=M2dhaGVoMmdiODNo)
 - 🌐 Portfolio (Coming soon!)  
 
----
+--- 
 
 ## ⚡ Fun Fact  
 When I’m not coding, I’m probably learning new languages 🌍 or playing strategy games like **chess** ♟️  
