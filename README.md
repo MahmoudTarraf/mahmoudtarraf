@@ -1,26 +1,50 @@
-## Hi there 👋
-<br/>
-<br/>
-My name is Mahmoud, I'm an IT graduate specialized in building Mobile Applications using Flutter, Dart, and Django backend Framework .<br/>
-<br/>
-- 🔭 I’m currently working on Flutter Chess Application [Chess-League] Using dart and Flutter.<br/>
-  link to project: (https://github.com/MahmoudTarraf/Chess-League/tree/master)<br/>
-- 🌱 I’m currently learning Python and Django : a complete backend development course while creating a fullstack app using django and flutter.<br/>
-- 💬 I'm ready to offer any help with building your dream mobile application!<br/>
-- 📫 Reach me on : <br/>
-  [Email] : (mahmoudtarraf77@gmail.com)<br/>
-  [Facebook] : (https://www.facebook.com/share/153i3Qbi8i/)<br/>
-<!--
-**MahmoudTarraf/mahmoudtarraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Mahmoud Tarraf
 
-Here are some ideas to get you started:
+🚀 Flutter Developer | Backend Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an IT graduate passionate about building high-quality mobile applications and scalable backend systems. With expertise in Flutter, Dart, and Django, I enjoy transforming ideas into functional, user-friendly apps that make an impact.
+
+💡 My focus is on clean code, modern UI/UX, and real-world problem solving.
+
+🔭 Current Projects
+
+🧩 Chess-League – A Flutter-based chess application with intelligent move validation and multiplayer support.
+👉 View Project
+
+🌱 What I’m Learning
+
+📚 Advanced Python & Django for building full-stack apps.
+
+⚡ Improving my testing, deployment, and scaling skills.
+
+🤝 Let’s Collaborate
+
+I’d love to work on:
+
+📱 Innovative mobile apps (Flutter/Dart)
+
+🌐 Fullstack projects (Django + Flutter)
+
+🛠️ Open-source contributions
+
+💬 Ask Me About
+
+Flutter app architecture (BLoC, GetX, Provider)
+
+Firebase integration (Auth, Firestore, Notifications)
+
+API development with Django
+
+📫 Connect With Me
+
+📧 Email: mahmoudtarraf77@gmail.com
+
+💼 LinkedIn: linkedin.com/in/mahmoud-tarraf
+
+🐙 GitHub: github.com/MahmoudTarraf
+
+🌐 Portfolio (Coming soon!)
+
+⚡ Fun Fact
+
+When I’m not coding, I’m probably learning a new language 🌍 or playing strategy games like chess ♟️
