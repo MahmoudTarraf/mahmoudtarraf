@@ -1,5 +1,6 @@
-![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWsxYXhtNHQxN3RhZHlyNTk3aXF6c3FrdXl2MmlyMzlmYjduMWJrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 # 👋 Hi, I'm Mahmoud Tarraf  
 
 🚀 **Flutter Developer | Backend Enthusiast | Problem Solver**  
