@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnVqb3BvbDExOTU1b2RjZDZwOWtrZ2Mzbmc4Z2pseGx1ajhyaDIwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="400" />
 </p>
 # 👋 Hi, I'm Mahmoud Tarraf  
 
