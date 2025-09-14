@@ -1,3 +1,5 @@
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtuMDg1ZzMwczkxOHEyc3J1YW1qOW50OW1tNXRvbjF5N3pxNDhudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+
 # 👋 Hi, I'm Mahmoud Tarraf  
 
 🚀 **Flutter Developer | Backend Enthusiast | Problem Solver**  
